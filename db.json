@@ -1,31 +1,18 @@
+[{
+	  "ID_PROCESO": 10248,
+                "MODALIDAD":"Ninguna",
+                "S_NOMBRE": "Wilder",
+                "FUNCIONARIO": "Reims",
+                "B_SOBRE_SELLADO": "Paul Henriot",
+                "D_CIERREPROPUESTAS":"si",
+                "CODFUNCIONARIO":"resi"
+},
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+	  "ID_PROCESO": 10249,
+                "MODALIDAD":"Ningunassssss",
+                "S_NOMBRE": "Wildersssss",
+                "FUNCIONARIO": "Reimssssss",
+                "B_SOBRE_SELLADO": "Paul Henriotssss",
+                "D_CIERREPROPUESTAS":"sisss",
+                "CODFUNCIONARIO":"resissss"
+}]
