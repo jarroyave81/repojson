@@ -1,5 +1,5 @@
 [{
-	  "ID_PROCESO" : "10248",
+	  "ID_PROCESO" : 10248,
                 "MODALIDAD" :"Ninguna",
                 "S_NOMBRE" : "Wilder",
                 "FUNCIONARIO" : "Reims",
@@ -8,7 +8,7 @@
                 "CODFUNCIONARIO":"resi"
 },
 {
-	  "ID_PROCESO" : "10249",
+	  "ID_PROCESO" : 10249,
                 "MODALIDAD" :"Ningunassssss",
                 "S_NOMBRE" : "Wildersssss",
                 "FUNCIONARIO" : "Reimssssss",
